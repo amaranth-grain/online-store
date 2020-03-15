@@ -62,7 +62,7 @@ body {
   overflow: auto;
 }
 .btnCart {
-  background: blue;
+  background: transparent;
   text-transform: capitalize;
   font-size: 0.8rem !important;
   color: var(--mainDark);
