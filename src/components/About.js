@@ -1,7 +1,7 @@
 import React from "react";
 import Title from "./Title";
 import Navbar from "./Navbar";
-import {aboutMe} from "../data";
+import { aboutMe } from "../data";
 
 class About extends React.Component {
   render() {
@@ -21,7 +21,7 @@ class About extends React.Component {
             </div>
             <div className="col-xs-8 col-md-6 col-lg-7 text-left my-auto vertical-center animated fadeIn aboutMe">
               {aboutMe.about.map(p => {
-                return <p>{p}</p>
+                return <p>{p}</p>;
               })}
             </div>
           </div>

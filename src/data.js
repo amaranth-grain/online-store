@@ -115,7 +115,7 @@ export const detailProduct = {
 };
 
 export const aboutMe = {
-  imgPath: "img/profile.jpg",
+  imgPath: "img/profile.png",
   about: [
     `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   Duis interdum lectus ut volutpat varius. Suspendisse sit amet ligula 

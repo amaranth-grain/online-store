@@ -10,7 +10,7 @@ class Home extends React.Component {
           <div className="overlay">
             <div className="container">
               <div className="hero-content">
-                <h1 className="animated fadeInDown">Angela Hopkins</h1>
+                <h1 className="animated fadeInDown">Christy Yau</h1>
                 <Link to="/products">
                   <ButtonRoundedLight id="heroShop" className="animated fadeIn">
                     Shop
